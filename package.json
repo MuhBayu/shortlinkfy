@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://shortlinkfy.netlify.com",
+  "baseUrl": "http://s.bayyu.net",
   "name": "shortlinkfy",
   "version": "1.0.0",
   "main": "__redirects",
