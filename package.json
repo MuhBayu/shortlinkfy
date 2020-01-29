@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://shortlinkfy.netlify.com",
+  "name": "shortlinkfy",
+  "version": "1.0.0",
+  "main": "__redirects",
+  "author": "MuhBayu <bnugraha00@gmail.com>",
+  "repository": "https://github.com/MuhBayu/shortlinkfy",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  },
+  "scripts": {
+    "shorten": "netlify-shortener"
+  }
+}
